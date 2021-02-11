@@ -18,6 +18,9 @@
   "homepage": "https://github.com/Nicom7910/Entrega-Individual#readme",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
   }
 }

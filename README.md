@@ -8,22 +8,22 @@
 
 ## Consignas
 
-- Crear un **repositorio en GitHub** para realizar la entrega
-- Crear un proyecto en **Express**
-- Utilizar el HTML y trasladar todo a **EJS**
+- Crear un **repositorio en GitHub** para realizar la entrega (Hecho)
+- Crear un proyecto en **Express** (Hecho)
+- Utilizar el HTML y trasladar todo a **EJS**  (Hecho)
 - Crear las **rutas** necesarias para:
-    1. Mostrar una página principal (index.html)
-    2. Mostrar el formulario de edición de una nota (detail.html)
-    3. Guardar una nueva nota
-    4. Editar una nota existente
-    5. Eliminar una nota existente
-- Crear un **controlador** con los métodos necesarios para hacer las acciones previamente detalladas
-- Crear una base de datos con una tabla "notas" con las siguientes columnas:
+    1. Mostrar una página principal (index.html)  (Hecho)
+    2. Mostrar el formulario de edición de una nota (detail.html) (Hecho)
+    3. Guardar una nueva nota (Hecho)
+    4. Editar una nota existente (Hecho)
+    5. Eliminar una nota existente (Hecho)
+- Crear un **controlador** con los métodos necesarios para hacer las acciones previamente detalladas (Hecho)
+- Crear una base de datos con una tabla "notas" con las siguientes columnas: (Hecho)
     - id
     - titulo
     - texto
     - created_at
     - updated_at
     - deleted_at (paranoid)
-- Utilizar **Sequelize** para conectar la base de datos con el proyecto
-- Crear el modelo correspondiente para utilizar la tabla "notas"
+- Utilizar **Sequelize** para conectar la base de datos con el proyecto (Hecho)
+- Crear el modelo correspondiente para utilizar la tabla "notas" (Hecho)
